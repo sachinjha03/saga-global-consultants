@@ -1,0 +1,9 @@
+.admin-footer{
+    background-color: black;
+    color: white;
+    padding: 2rem 1rem;
+    text-align: center
+}
+.admin-footer h4 a{
+    color: var(--blue);
+}

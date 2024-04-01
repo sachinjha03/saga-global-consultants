@@ -1,0 +1,35 @@
+.expertise-section{
+    padding: 3rem 2rem;
+    background: url("../../images/expertise-section-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.expertise-section::before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.626);
+}
+.expertise-section-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    color: white;
+}
+.expertise-section-header p{
+    max-width: 500px;
+}
+.expertise-section-header h2 span{
+    color: orangered;
+}

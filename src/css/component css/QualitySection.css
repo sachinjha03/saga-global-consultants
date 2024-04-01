@@ -1,0 +1,19 @@
+.quality-section{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+    flex-wrap: wrap;
+    padding: 2rem 2rem;
+}
+.quality{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 0.5rem;
+}
+.quality .quality-icon{
+    font-size: 2rem;
+    color: var(--blue);
+}

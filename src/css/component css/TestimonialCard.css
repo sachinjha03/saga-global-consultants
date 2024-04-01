@@ -1,0 +1,26 @@
+.testimonial-card{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 2rem 1.5rem;
+    border-radius: 8px;
+}
+.testimonial-card-left img{
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.testimonial-card-right p{
+    font-size: 8px;
+}
+
+@media screen and (max-width:400px) {
+    .testimonial-card{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}
