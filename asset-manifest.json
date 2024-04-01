@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/saga-global-consultants/static/css/main.9835bc86.css",
+    "main.js": "/saga-global-consultants/static/js/main.b2f4a074.js",
+    "static/media/login-page-bg.jpg": "/saga-global-consultants/static/media/login-page-bg.21013ecc9085ba3af1fe.jpg",
+    "static/media/expertise-section-bg.jpg": "/saga-global-consultants/static/media/expertise-section-bg.9b9ee6103dd7305d6a2b.jpg",
+    "static/media/about2.jpg": "/saga-global-consultants/static/media/about2.72cd354a40365856b2d8.jpg",
+    "static/media/about-page-landing-img.png": "/saga-global-consultants/static/media/about-page-landing-img.242280d607d677deb530.png",
+    "static/media/dashboard-img.png": "/saga-global-consultants/static/media/dashboard-img.9d6d1534b1a241e05936.png",
+    "static/media/dashboard-illustration.png": "/saga-global-consultants/static/media/dashboard-illustration.017351b821d7830c2121.png",
+    "static/media/testimonial3.jpg": "/saga-global-consultants/static/media/testimonial3.0285d57da6adf70113cd.jpg",
+    "static/media/testimonial1.jpg": "/saga-global-consultants/static/media/testimonial1.dfaea22e70067598f236.jpg",
+    "static/media/testimonial2.jpg": "/saga-global-consultants/static/media/testimonial2.0e84d08a2ce0291e1ed4.jpg",
+    "static/media/expertise3.jpg": "/saga-global-consultants/static/media/expertise3.b13785ae7987a342537c.jpg",
+    "static/media/expertise2.jpg": "/saga-global-consultants/static/media/expertise2.9cef9e09c359d18f32a5.jpg",
+    "static/media/testimonial5.jpg": "/saga-global-consultants/static/media/testimonial5.d10e63170daa81d076db.jpg",
+    "static/media/expertise1.jpg": "/saga-global-consultants/static/media/expertise1.2862be9b1e3b531e88e9.jpg",
+    "static/media/logo.png": "/saga-global-consultants/static/media/logo.39fa37752e387bc814b0.png",
+    "static/media/about1.jpg": "/saga-global-consultants/static/media/about1.f201d3ebfa5ae50496ce.jpg",
+    "static/media/contact-page-bg.jpg": "/saga-global-consultants/static/media/contact-page-bg.2b3166e20c5bd1eb3648.jpg",
+    "static/media/service-page-landing-bg.jpg": "/saga-global-consultants/static/media/service-page-landing-bg.fdcc5396104fc16aacac.jpg",
+    "static/media/landing-bg-new.jpeg": "/saga-global-consultants/static/media/landing-bg-new.14c0bc0b361b9fedb727.jpeg",
+    "static/media/serviceImg.jpg": "/saga-global-consultants/static/media/serviceImg.5937ff03117e6cb050db.jpg",
+    "static/media/about-img.jpg": "/saga-global-consultants/static/media/about-img.08873bcf959e62266cdb.jpg",
+    "static/media/about3.jpg": "/saga-global-consultants/static/media/about3.416a08141adefb769f26.jpg",
+    "static/media/testimonial4.jpg": "/saga-global-consultants/static/media/testimonial4.61659e5f5b937cce0721.jpg",
+    "index.html": "/saga-global-consultants/index.html",
+    "main.9835bc86.css.map": "/saga-global-consultants/static/css/main.9835bc86.css.map",
+    "main.b2f4a074.js.map": "/saga-global-consultants/static/js/main.b2f4a074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9835bc86.css",
+    "static/js/main.b2f4a074.js"
+  ]
+}
