@@ -42,12 +42,16 @@
 }
 
 @media screen and (max-width:500px) {
-    .footer{
+    /* .footer{
         display: flex;
         flex-direction: column;
         gap: 2rem;
         justify-content: center;
-        align-items: center;
-        text-align: center;
+    } */
+    #footerColumn1{
+        width: 100%;
+    }
+    #footerColumn3{
+        width: 40%;
     }
 }

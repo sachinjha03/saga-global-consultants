@@ -1,6 +1,6 @@
 import React from 'react'
 import "../admin css/AdminNavbar.css"
-import logo from "../../images/logo.png"
+import logo from "../../images/logo.jpeg"
 export default function AdminNavbar() {
 
   const handleLogout = () => {

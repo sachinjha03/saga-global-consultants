@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import "../css/component css/Navbar.css"
-import logo from "../images/logo.png"
+import logo from "../images/logo.jpeg"
 import { Link } from 'react-router-dom';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';

@@ -12,7 +12,7 @@ export default function HomePage() {
     {window.scrollTo(0, 0)}
       <div className="landing-section">
         <h3>Welcome To</h3>
-        <h1><span>SAGA</span> GLOBAL CONSULTANTS</h1>
+        <h1><span>SAGA</span> INTERNATIONAL</h1>
         <p>We have developed world class, contemporary training institutions where valuable human resources are nurtured and imparted training on the latest business tools and skills.  SAGA has necessary infrastructure  & expertise to provide value added customized training programs in upstream, midstream & downstream sectors</p>
         <a href="#aboutSection" className="btn-a">Explore More</a>
       </div>

@@ -28,7 +28,7 @@ function App() {
   })
   return (
    <>
-    <BrowserRouter>
+    <BrowserRouter basename='/saga-global-consultants'>
       {admin ? <AdminNavbar/> : <Navbar/>}
       <Routes>
         <Route path='/' element={admin ? <AdminDashboard/> :  <HomePage/>}/>

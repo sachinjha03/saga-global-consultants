@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,500;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@0;1&display=swap');
 *{
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
-  font-family: "Inter", sans-serif;
+  font-family: "Noto Sans", sans-serif;  
 }
 :root{
   --blue : rgb(0, 191, 255);
@@ -19,6 +20,7 @@ body{
 }
 h1{
   font-size: 4rem;
+  font-family: "Arimo", sans-serif;
 }
 h2{
   font-size: 3rem

@@ -41,8 +41,8 @@ export default function ServicePage() {
                     <img src={elem.image} alt="" />
                     <h3>{elem.name}</h3>
                     <p>{elem.description}</p>
-                    <ul>
-                        {elem.quality1.length != 0 ? <li>{elem.quality1}</li> : ""}
+                    <ul style={{"list-style-type" : 'square'}}>
+                        {elem.quality1.length != 0 ? <li >{elem.quality1}</li> : ""}
                         {elem.quality2.length != 0 ? <li>{elem.quality2}</li> : ""}
                         {elem.quality3.length != 0 ? <li>{elem.quality3}</li> : ""}
                         {elem.quality4.length != 0 ? <li>{elem.quality4}</li> : ""}
