@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/saga-global-consultants/static/css/main.3055fef2.css",
-    "main.js": "/saga-global-consultants/static/js/main.205b0cc8.js",
+    "main.css": "/saga-global-consultants/static/css/main.e9e9c557.css",
+    "main.js": "/saga-global-consultants/static/js/main.c858e408.js",
     "static/media/login-page-bg.jpg": "/saga-global-consultants/static/media/login-page-bg.21013ecc9085ba3af1fe.jpg",
     "static/media/expertise-section-bg.jpg": "/saga-global-consultants/static/media/expertise-section-bg.9b9ee6103dd7305d6a2b.jpg",
     "static/media/about2.jpg": "/saga-global-consultants/static/media/about2.72cd354a40365856b2d8.jpg",
@@ -48,11 +48,11 @@
     "static/media/SAGA_CL_logo-19.jpg": "/saga-global-consultants/static/media/SAGA_CL_logo-19.3123c9de7bf3ebb91be1.jpg",
     "static/media/SAGA_CL_logo-16.jpg": "/saga-global-consultants/static/media/SAGA_CL_logo-16.8dd9a53ac7661c846e91.jpg",
     "index.html": "/saga-global-consultants/index.html",
-    "main.3055fef2.css.map": "/saga-global-consultants/static/css/main.3055fef2.css.map",
-    "main.205b0cc8.js.map": "/saga-global-consultants/static/js/main.205b0cc8.js.map"
+    "main.e9e9c557.css.map": "/saga-global-consultants/static/css/main.e9e9c557.css.map",
+    "main.c858e408.js.map": "/saga-global-consultants/static/js/main.c858e408.js.map"
   },
   "entrypoints": [
-    "static/css/main.3055fef2.css",
-    "static/js/main.205b0cc8.js"
+    "static/css/main.e9e9c557.css",
+    "static/js/main.c858e408.js"
   ]
 }
