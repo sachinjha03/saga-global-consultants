@@ -9,7 +9,7 @@ export default function QualitySection() {
     <div className='quality-section'>
         <div className="quality">
             <SecurityIcon className='quality-icon'/>
-            <h4>Precision Learning</h4>
+            <h4>Excellence Quality</h4>
         </div>
         <div className="quality">
             <AcUnitIcon className='quality-icon'/>
@@ -17,7 +17,7 @@ export default function QualitySection() {
         </div>
         <div className="quality">
             <AddLocationAltIcon className='quality-icon'/>
-            <h4>Tailored Excellence</h4>
+            <h4>International Reach</h4>
         </div>
         <div className="quality">
             <AssuredWorkloadIcon className='quality-icon'/>

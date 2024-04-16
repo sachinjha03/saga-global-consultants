@@ -7,7 +7,7 @@ export default function ExpertiseCard(props) {
         <img src={props.image} alt="" />
         <h4>{props.title}</h4>
         <p>{props.description}</p>
-        <Link to="" className='btn-a'>Read More</Link>
+        <Link to="/services" className='btn-a'>Read More</Link>
     </div>
   )
 }

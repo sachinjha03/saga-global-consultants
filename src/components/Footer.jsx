@@ -6,7 +6,7 @@ export default function Footer() {
     <div className='footer'>
         <div className="footer-top">
             <div className="footer-column" id="footerColumn1">
-                <h3>SAGA GLOBAL<br /> <span>CONSULTANTS</span></h3>
+                <h3>SAGA <br /> <span>International</span></h3>
                 <h5>The Think-Tank for the oil & Gas lndustry</h5>
             </div>
             <div className="footer-column" id="footerColumn2">

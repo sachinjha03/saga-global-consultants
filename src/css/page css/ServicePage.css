@@ -47,9 +47,9 @@
     gap: 0.7rem;
     width: 400px;
 }
-.service-card:nth-child(even){
+/* .service-card:nth-child(even){
     margin-top: 4rem;
-}
+} */
 .service-card img{
     width: 400px;
     height: 400px;
@@ -81,9 +81,6 @@
     .service-page-service-section{
         display: flex;
         flex-direction: column;
-    }
-    .service-card:nth-child(even){
-        margin-top: 0rem;
     }
     .service-card{
         width: 100%;
