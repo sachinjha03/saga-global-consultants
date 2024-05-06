@@ -79,19 +79,19 @@ export default function LoginPage() {
             <h3>Registration</h3>
             <div className="input-box">
               <p>Name</p>
-              <input type="text" className="input-field" name='name' value={registrationData.name} onChange={handleRegistrationFormChange} />
+              <input type="text" className="input-field" name='name' value={registrationData.name} pattern="[A-Za-z]+" onChange={handleRegistrationFormChange} required />
             </div>
             <div className="input-box">
               <p>Email Address</p>
-              <input type="email" className="input-field" name='email' value={registrationData.email} onChange={handleRegistrationFormChange} />
+              <input type="email" className="input-field" name='email' value={registrationData.email} onChange={handleRegistrationFormChange} required />
             </div>
             <div className="input-box">
               <p>Contact Number</p>
-              <input type="number" className="input-field" name='contact' value={registrationData.contact} onChange={handleRegistrationFormChange} />
+              <input type="number" className="input-field" name='contact' value={registrationData.contact} onChange={handleRegistrationFormChange} required/>
             </div>
             <div className="input-box">
               <p>Password</p>
-              <input type="password" className="input-field" name='password' value={registrationData.password} onChange={handleRegistrationFormChange} />
+              <input type="password" className="input-field" name='password' value={registrationData.password} onChange={handleRegistrationFormChange} required/>
             </div>
             <input type="submit" value="Register" className="btn-a" />
             <button className='link-a' onClick={showLoginForm}>Login</button>
@@ -101,11 +101,11 @@ export default function LoginPage() {
           <h3>Login</h3>
           <div className="input-box">
               <p>Email Address</p>
-              <input type="email" className="input-field" name='email' value={loginData.email} onChange={handleLoginFormChange} />
+              <input type="email" className="input-field" name='email' value={loginData.email} onChange={handleLoginFormChange} required/>
             </div>
             <div className="input-box">
               <p>Password</p>
-              <input type="password" className="input-field" name='password' value={loginData.password} onChange={handleLoginFormChange} />
+              <input type="password" className="input-field" name='password' value={loginData.password} onChange={handleLoginFormChange} required />
             </div>
             <input type="submit" value="Login" className="btn-a" />
             <button className='link-a' onClick={showRegistrationForm}>Register Yourself</button>

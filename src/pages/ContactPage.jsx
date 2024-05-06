@@ -40,7 +40,7 @@ export default function ContactPage() {
             <h3>Contact Us</h3>
             <div className="input-box">
                 <p>Your Name</p>
-                <input type="text" className="input-field" name='name' value={formData.name} onChange={handleChange} required/>
+                <input type="text" className="input-field" name='name' pattern="[A-Za-z]+" value={formData.name} onChange={handleChange} required/>
             </div>
             <div className="input-box">
                 <p>Your Email</p>
